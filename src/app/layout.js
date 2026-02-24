@@ -9,7 +9,7 @@ const barlow = Barlow({
 });
 
 export const metadata = {
-  title: "ARTIVO",
+  title: "Ahl",
   description:
     "Advanced Engineering Solutions - Product Design, Engineering, Prototyping, Manufacturing",
   icons: {
