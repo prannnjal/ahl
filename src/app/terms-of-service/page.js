@@ -112,7 +112,8 @@ const sections = [
     heading: "12. Contact Us",
     description: "If you have questions about our Terms & Conditions, you may contact us:",
     bullets: [
-      "Email: info@ahlelevators.com",
+      "Email: ahlelevators56@gmail.com",
+      "Phone: +91 9667972293",
       "Website: www.ahlelevators.com",
     ],
   },

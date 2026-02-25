@@ -171,7 +171,7 @@ const sections = [
       "A copy of your stored data",
       "Opt-out from marketing communications",
     ],
-    postNote: "Requests may be sent to info@ahlelevators.com.",
+    postNote: "Requests may be sent to ahlelevators56@gmail.com.",
   },
   {
     title: "8. Third-Party Links",
@@ -213,7 +213,8 @@ const sections = [
     title: "14. Contact Us",
     paragraphs: [
       "If you have questions about our Privacy Policy, you may contact us:",
-      "Email: info@ahlelevators.com",
+      "Email: ahlelevators56@gmail.com",
+      "Phone: +91 9667972293",
       "Website: www.ahlelevators.com",
     ],
   },
