@@ -23,7 +23,7 @@ export const Footer = () => {
           {/* Company Info & Social Media */}
           <div className="space-y-6">
             <a href="/" className="text-2xl font-bold text-white tracking-widest uppercase mb-6 inline-block">
-              Aura Elevators
+              AHL Elevators
             </a>
             {/* Contact Information */}
             <div className="text-white space-y-3 max-w-sm">
@@ -34,7 +34,7 @@ export const Footer = () => {
               </p>
               <p className="text-sm flex items-center gap-2">
                 <span>✉️</span>
-                <a href="mailto:auraelevators56@gmail.com" className="hover:text-[#ffed00] transition-colors break-all">auraelevators56@gmail.com</a>
+                <a href="mailto:ahlelevators56@gmail.com" className="hover:text-[#ffed00] transition-colors break-all">ahlelevators56@gmail.com</a>
               </p>
               <div className="text-sm mt-4 space-y-3">
                 <p>
@@ -53,7 +53,7 @@ export const Footer = () => {
             </div>
             {/* Copyright */}
             <div className="space-y-2 text-left pt-2">
-              <p className="text-white text-sm opacity-80">©2025 Aura Elevators</p>
+              <p className="text-white text-sm opacity-80">©2025 AHL Elevators</p>
               <p className="text-white text-sm opacity-80">All Rights Reserved</p>
             </div>
           </div>

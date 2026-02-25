@@ -93,7 +93,7 @@ export const OurWorkSection = () => {
                 letterSpacing: '-0.04em'
               }}
             >
-              "With Aura Elevators, you get seamless installation and reliable performance. Their team made the entire process incredibly smooth."
+              "With AHL Elevators, you get seamless installation and reliable performance. Their team made the entire process incredibly smooth."
             </p>
 
             <div className="space-y-1">
@@ -135,7 +135,7 @@ export const OurWorkSection = () => {
                 letterSpacing: '-0.04em'
               }}
             >
-              "With Aura Elevators, you get seamless installation and reliable performance. Their team made the entire process incredibly smooth."
+              "With AHL Elevators, you get seamless installation and reliable performance. Their team made the entire process incredibly smooth."
             </p>
 
             <div className="space-y-1">

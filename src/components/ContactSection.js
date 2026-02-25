@@ -292,7 +292,7 @@ const ContactForm = () => (
 
         <div className="bg-gray-50 p-4 sm:p-5 md:p-6 rounded-lg">
           <p className="text-gray-600 text-xs sm:text-sm mb-3 sm:mb-4 leading-relaxed">
-            Stay ahead with Aura Elevators updates on elevator safety, maintenance, and modernizations that help your building run smoother.
+            Stay ahead with AHL Elevators updates on elevator safety, maintenance, and modernizations that help your building run smoother.
           </p>
           <label className="flex items-start sm:items-center space-x-2 sm:space-x-3">
             <input type="checkbox" className="mt-1 sm:mt-0 rounded border-gray-300 text-red-600 focus:ring-red-500 w-4 h-4 sm:w-5 sm:h-5" />

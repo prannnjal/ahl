@@ -41,7 +41,7 @@ export const VisionsMissionsSection = () => {
 
               {/* First Paragraph */}
               <p className="text-lg text-gray-700 leading-relaxed">
-                At Aura Elevators, we believe every building deserves safe and reliable mobility. Your vision is the starting point and our mission is to shape it into a precise, functional, and elegant elevator solution.
+                At AHL Elevators, we believe every building deserves safe and reliable mobility. Your vision is the starting point and our mission is to shape it into a precise, functional, and elegant elevator solution.
               </p>
 
               {/* Second Paragraph */}

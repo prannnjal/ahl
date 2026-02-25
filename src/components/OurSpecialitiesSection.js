@@ -43,7 +43,7 @@ export const OurSpecialitiesSection = () => {
                 Every building needs a reliable elevation solution.
               </p>
               <p>
-                At Aura Elevators, we provide top-tier elevator installations, custom designs, and responsive maintenance to elevate your spaces.
+                At AHL Elevators, we provide top-tier elevator installations, custom designs, and responsive maintenance to elevate your spaces.
               </p>
             </div>
           </div>
@@ -90,7 +90,7 @@ export const OurSpecialitiesSection = () => {
                       letterSpacing: '-0.04em'
                     }}
                   >
-                    Operations Manager, Aura Elevators
+                    Operations Manager, AHL Elevators
                   </p>
                 </div>
               </div>
@@ -129,7 +129,7 @@ export const OurSpecialitiesSection = () => {
               Every building needs a reliable elevation solution.
             </p>
             <p>
-              At Aura Elevators, we provide top-tier elevator installations, custom designs, and responsive maintenance to elevate your spaces.
+              At AHL Elevators, we provide top-tier elevator installations, custom designs, and responsive maintenance to elevate your spaces.
             </p>
           </div>
         </div>
@@ -142,7 +142,7 @@ export const OurSpecialitiesSection = () => {
           <div className="relative w-full h-full overflow-hidden rounded-lg">
             <Image
               src="/aura-elevators/WhatsApp_Image_2026-02-24_at_10.43.26_AM_1_.jpeg"
-              alt="Aura Elevators Speciality"
+              alt="AHL Elevators Speciality"
               fill
               className="object-cover"
               sizes="(max-width: 1024px) 100vw, 50vw"
@@ -181,7 +181,7 @@ export const OurSpecialitiesSection = () => {
                       letterSpacing: '-0.04em'
                     }}
                   >
-                    Operations Manager, Aura Elevators
+                    Operations Manager, AHL Elevators
                   </p>
                 </div>
               </div>

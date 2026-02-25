@@ -9,13 +9,13 @@ export const TestimonialsSection = () => {
       {
         quote:
           "Artivo designed and launched our trailer latching system with utmost precision and creativity. Their team understood our vision from day one and delivered beyond expectations. Professional, reliable, and deeply passionate about innovation — truly impressive!",
-        author: "James",
+        author: "Aditya",
         role: "Business Development Manager, Powertorque Electronics",
       },
       {
         quote:
           "Working with Artivo was seamless from start to finish. They transformed our ideas into market-ready solutions that exceeded expectations. Their attention to detail, design thinking, and commitment make them our go-to partner.",
-        author: "Fiona",
+        author: "Rohit",
         role: "Product Specialist, Derwent Tools",
       },
       {
@@ -68,7 +68,7 @@ export const TestimonialsSection = () => {
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-800">
             Testimonials...
           </h2>
-          
+
           {/* Navigation Controls */}
           <div className="hidden sm:flex space-x-3">
             <button

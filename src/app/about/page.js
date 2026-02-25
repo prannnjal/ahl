@@ -28,7 +28,7 @@ function FooterStyleSection() {
       <div className="absolute right-0 top-1/2 -translate-y-[2%] z-10 pointer-events-none">
         <div className="relative w-[240px] sm:w-[300px] md:w-[340px] lg:w-[390px] h-[160px] sm:h-[200px] md:h-[240px] lg:h-[290px]">
           <Image
-            src="/about/Artivo - GP Line Drawings 1.png"
+            src="/aura-elevators/WhatsApp_Image_2026-02-24_at_10.43.26_AM.jpeg"
             alt="Artivo Line Drawing Large Decorative"
             fill
             className="object-contain"
@@ -87,7 +87,7 @@ function AboutView({ variant = 'desktop' }) {
       <section className="relative h-screen w-full overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="/1.png"
+            src="/aura-elevators/WhatsApp_Image_2026-02-24_at_10.43.33_AM.jpeg"
             alt="About Hero"
             fill
             priority
@@ -107,7 +107,7 @@ function AboutView({ variant = 'desktop' }) {
               }}
             >
               "There is good design, then there is better design."<br />
-              At Aura Elevators, we aim for the best."
+              At AHL Elevators, we aim for the best."
             </blockquote>
             <div className="space-y-1 mb-16">
               <p
@@ -128,7 +128,7 @@ function AboutView({ variant = 'desktop' }) {
                   letterSpacing: '-0.04em'
                 }}
               >
-                Director of Operations, Aura Elevators
+                Director of Operations, AHL Elevators
               </p>
             </div>
           </div>
@@ -326,7 +326,7 @@ function AboutView({ variant = 'desktop' }) {
             <div className="grid grid-rows-2 gap-1 lg:col-span-1">
               <div className="relative w-full h-56 sm:h-64 md:h-72 lg:h-[290px] overflow-hidden">
                 <Image
-                  src="/34.png"
+                  src="/aura-elevators/WhatsApp_Image_2026-02-24_at_10.43.32_AM_1_.jpeg"
                   alt="Showcase A"
                   fill
                   className="object-cover"
@@ -335,7 +335,7 @@ function AboutView({ variant = 'desktop' }) {
               </div>
               <div className="relative w-full h-56 sm:h-64 md:h-72 lg:h-[290px] overflow-hidden">
                 <Image
-                  src="/16.png"
+                  src="/aura-elevators/WhatsApp_Image_2026-02-24_at_10.43.28_AM_1_.jpeg"
                   alt="Showcase B"
                   fill
                   className="object-cover"
@@ -346,7 +346,7 @@ function AboutView({ variant = 'desktop' }) {
             {/* Right column: one tall image spanning 2 columns */}
             <div className="relative w-full h-[380px] sm:h-[460px] md:h-[520px] lg:h-[584px] lg:col-span-2 overflow-hidden">
               <Image
-                src="/30.png"
+                src="/aura-elevators/WhatsApp_Image_2026-02-24_at_10.43.31_AM_1_.jpeg"
                 alt="Showcase Main"
                 fill
                 className="object-cover"
@@ -451,7 +451,7 @@ function AboutView({ variant = 'desktop' }) {
               {
                 id: 3,
                 title: "Safety that leads",
-                description: "At Aura Elevators, we believe that true safety goes beyond just compliance. It requires a deep understanding of structural needs and user-centric operations."
+                description: "At AHL Elevators, we believe that true safety goes beyond just compliance. It requires a deep understanding of structural needs and user-centric operations."
               },
             ].map((feature, index) => (
               <div
@@ -494,7 +494,7 @@ function AboutView({ variant = 'desktop' }) {
       {/* Full-screen bicycle image section */}
       <section className="relative w-full h-screen overflow-hidden my-[4px]">
         <Image
-          src="/about/freepik__make-render-of-the-bicycle-in-the-reference-image-__90791 1.png"
+          src="/aura-elevators/WhatsApp_Image_2026-02-24_at_10.43.26_AM_2_.jpeg"
           alt="Bicycle Render"
           fill
           priority

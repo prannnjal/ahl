@@ -32,7 +32,7 @@ export const DesignSection = () => {
                 Every project we take on is more than an installation; it's a story of safety, precision, and purpose.
               </p>
               <p className="leading-relaxed font-normal text-sm">
-                Some of the many projects we've brought to life, built with passion and dedication at Aura Elevators.
+                Some of the many projects we've brought to life, built with passion and dedication at AHL Elevators.
               </p>
             </div>
           </div>
@@ -110,7 +110,7 @@ export const DesignSection = () => {
               fontSize: 'clamp(0.75rem, 1.17vw, 1rem)',
               color: 'white'
             }}>
-              Some of the many projects we've brought to life, built with passion and dedication at Aura Elevators.
+              Some of the many projects we've brought to life, built with passion and dedication at AHL Elevators.
             </p>
           </div>
         </div>

@@ -45,7 +45,7 @@ export const InnovativeAffiliationsSection = () => {
                     letterSpacing: '-0.04em'
                   }}
                 >
-                  "Aura Elevators flawlessly executed our project! They've always exceeded expectations.<br />Great work!"
+                  "AHL Elevators flawlessly executed our project! They've always exceeded expectations.<br />Great work!"
                 </blockquote>
                 <div className="space-y-1">
                   <p
@@ -56,7 +56,7 @@ export const InnovativeAffiliationsSection = () => {
                       letterSpacing: '-0.04em'
                     }}
                   >
-                    Michael R.
+                    Deepak
                   </p>
                   <p
                     className="text-black text-base sm:text-lg"
@@ -66,7 +66,7 @@ export const InnovativeAffiliationsSection = () => {
                       letterSpacing: '-0.04em'
                     }}
                   >
-                    Lead Architect, Metro Builders
+                    Director of Operations, AHL Elevators
                   </p>
                 </div>
               </div>
@@ -107,7 +107,7 @@ export const InnovativeAffiliationsSection = () => {
                     letterSpacing: '-0.04em'
                   }}
                 >
-                  "Aura Elevators flawlessly executed our project! They've always exceeded expectations.<br />Great work!"
+                  "AHL Elevators flawlessly executed our project! They've always exceeded expectations.<br />Great work!"
                 </blockquote>
                 <div className="space-y-1">
                   <p
@@ -118,7 +118,7 @@ export const InnovativeAffiliationsSection = () => {
                       letterSpacing: '-0.04em'
                     }}
                   >
-                    Michael R.
+                    Deepak
                   </p>
                   <p
                     className="text-black text-[20px]"
@@ -128,7 +128,7 @@ export const InnovativeAffiliationsSection = () => {
                       letterSpacing: '-0.04em'
                     }}
                   >
-                    Lead Architect, Metro Builders
+                    Director of Operations, AHL Elevators
                   </p>
                 </div>
               </div>

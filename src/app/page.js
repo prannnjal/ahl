@@ -76,7 +76,7 @@ export default function Home() {
             {/* Central Symbols */}
             <div className="relative mx-auto" style={{ width: 'clamp(100px, 25vw, 150px)', height: 'clamp(100px, 25vw, 150px)' }}>
               <div className="absolute inset-0 flex items-center justify-center">
-                <span className="text-white font-bold text-2xl uppercase tracking-widest text-center">AURA<br />Elevators</span>
+                <span className="text-white font-bold text-2xl uppercase tracking-widest text-center">AHL<br />Elevators</span>
               </div>
             </div>
 
@@ -158,7 +158,7 @@ export default function Home() {
               {/* Central Symbols Logo */}
               <div className="relative z-10" style={{ width: 'clamp(100px, 12vw, 200px)', height: 'clamp(100px, 12vw, 200px)' }}>
                 <div className="absolute inset-0 flex items-center justify-center">
-                  <span className="text-white font-bold text-3xl uppercase tracking-widest text-center leading-tight">AURA<br />Elevators</span>
+                  <span className="text-white font-bold text-3xl uppercase tracking-widest text-center leading-tight">AHL<br />Elevators</span>
                 </div>
               </div>
 

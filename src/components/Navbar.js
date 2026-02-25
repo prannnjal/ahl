@@ -26,7 +26,7 @@ export const Navbar = ({ variant = 'default' }) => {
         {/* Logo */}
         <div className="flex items-center">
           <a href="/" className="text-2xl font-bold text-white tracking-widest uppercase">
-            Aura Elevators
+            AHL Elevators
           </a>
         </div>
 

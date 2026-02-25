@@ -23,7 +23,7 @@ export const ProductFeaturesSection = () => {
                   textAlign: 'right'
                 }}
               >
-                Aura Elevators
+                AHL Elevators
                 <br />
                 Smooth Ride Technology
               </p>
@@ -45,7 +45,7 @@ export const ProductFeaturesSection = () => {
                   textAlign: 'right'
                 }}
               >
-                Aura Elevators
+                AHL Elevators
                 <br />
                 Smart Destination Control
               </p>

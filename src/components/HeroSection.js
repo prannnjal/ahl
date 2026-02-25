@@ -35,7 +35,7 @@ export const HeroSection = () => {
             }}
           >
             <div className="text-xl sm:text-2xl md:text-3xl lg:text-[48px] leading-tight lg:leading-[1.2] max-w-xs sm:max-w-sm md:max-w-xl lg:w-[600px] drop-shadow-lg">
-              <span className="font-bold text-yellow-400">Aura Elevators</span><br />
+              <span className="font-bold text-yellow-400">AHL Elevators</span><br />
               Installing excellence in <br className="hidden lg:block" />
               buildings, apartments, and commercial spaces.
             </div>
