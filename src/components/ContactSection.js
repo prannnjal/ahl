@@ -37,9 +37,9 @@ export const ContactSection = () => {
                 title="Our Location"
                 description={
                   <>
-                    Level 40, 140 William Street,
-                    <br />
-                    Melbourne VIC 3000, Australia
+                    Address: Khasara no. 2941/8, Gali No. 9,<br />
+                    Laxman Vihar, Gurugram, Haryana-122001<br /><br />
+                    Corporate office: Delhi, Gurugram, Rewari, Neemran, Narnaul
                   </>
                 }
               />
@@ -52,10 +52,10 @@ export const ContactSection = () => {
                 title="Email Us"
                 description={
                   <a
-                    href="mailto:info@auraelevators.com"
+                    href="mailto:ahlelevators56@gmail.com"
                     className="text-gray-500 hover:text-red-600 transition-colors duration-200 break-words"
                   >
-                    info@auraelevators.com
+                    ahlelevators56@gmail.com
                   </a>
                 }
               />
@@ -68,27 +68,14 @@ export const ContactSection = () => {
                 title="Call Us"
                 description={
                   <a
-                    href="tel:+61434741351"
+                    href="tel:+919667972293"
                     className="text-gray-500 hover:text-red-600 transition-colors duration-200"
                   >
-                    +61 434 741 351
+                    +91 9667972293
                   </a>
                 }
               />
-              <MobileContactDetail
-                icon={
-                  <svg className="w-5 h-5 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                  </svg>
-                }
-                title="Business Hours"
-                description={
-                  <>
-                    Monday - Friday
-                    <br />9:00 AM - 6:00 PM (AEST)
-                  </>
-                }
-              />
+
             </div>
           </div>
 
@@ -129,7 +116,11 @@ export const ContactSection = () => {
                 </div>
                 <div className="flex-1">
                   <h3 className="text-gray-800 font-semibold mb-1 sm:mb-2 text-sm sm:text-base">Our Location</h3>
-                  <p className="text-gray-500 text-sm sm:text-base">Level 40, 140 William Street,<br />Melbourne VIC 3000, Australia</p>
+                  <p className="text-gray-500 text-sm sm:text-base">
+                    Address: Khasara no. 2941/8, Gali No. 9,<br />
+                    Laxman Vihar, Gurugram, Haryana-122001<br /><br />
+                    Corporate office: Delhi, Gurugram, Rewari, Neemran, Narnaul
+                  </p>
                 </div>
               </div>
 
@@ -143,10 +134,10 @@ export const ContactSection = () => {
                 <div className="flex-1">
                   <h3 className="text-gray-800 font-semibold mb-1 sm:mb-2 text-sm sm:text-base">Email Us</h3>
                   <a
-                    href="mailto:info@auraelevators.com"
+                    href="mailto:ahlelevators56@gmail.com"
                     className="text-gray-500 text-sm sm:text-base break-words hover:text-red-600 transition-colors duration-200"
                   >
-                    info@auraelevators.com
+                    ahlelevators56@gmail.com
                   </a>
                 </div>
               </div>
@@ -161,26 +152,15 @@ export const ContactSection = () => {
                 <div className="flex-1">
                   <h3 className="text-gray-800 font-semibold mb-1 sm:mb-2 text-sm sm:text-base">Call Us</h3>
                   <a
-                    href="tel:+61434741351"
+                    href="tel:+919667972293"
                     className="text-gray-500 text-sm sm:text-base hover:text-red-600 transition-colors duration-200"
                   >
-                    +61 434 741 351
+                    +91 9667972293
                   </a>
                 </div>
               </div>
 
-              {/* Business Hours */}
-              <div className="flex items-start space-x-3 sm:space-x-4">
-                <div className="flex-shrink-0 w-5 h-5 sm:w-6 sm:h-6 mt-1">
-                  <svg className="w-5 h-5 sm:w-6 sm:h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                  </svg>
-                </div>
-                <div className="flex-1">
-                  <h3 className="text-gray-800 font-semibold mb-1 sm:mb-2 text-sm sm:text-base">Business Hours</h3>
-                  <p className="text-gray-500 text-sm sm:text-base">Monday - Friday<br /> 9:00 AM - 6:00 PM (AEST)</p>
-                </div>
-              </div>
+
             </div>
           </div>
 

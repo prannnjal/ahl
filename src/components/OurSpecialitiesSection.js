@@ -5,15 +5,6 @@ export const OurSpecialitiesSection = () => {
   return (
     <section className="relative bg-white lg:h-[400px]">
 
-      {/* Background Image with wavy patterns */}
-      <div className="hidden lg:block absolute inset-0 z-5">
-        <Image
-          src="/1 11.png"
-          alt="Background Pattern"
-          fill
-          className="object-cover opacity-80"
-        />
-      </div>
 
       {/* Mobile View */}
       <div className="lg:hidden px-4 sm:px-6 mt-6">
@@ -50,12 +41,6 @@ export const OurSpecialitiesSection = () => {
 
           {/* Right Side - Image with Testimonial Overlay */}
           <div className="relative w-full h-[300px] sm:h-[350px] overflow-hidden rounded-lg">
-            <Image
-              src="/New folder/2 13.png"
-              alt="Our Specialities Visual"
-              fill
-              className="object-cover"
-            />
 
             {/* Testimonial Text Overlay */}
             <div className="absolute inset-0 z-20 flex items-center justify-end px-4 sm:px-6">
@@ -80,7 +65,7 @@ export const OurSpecialitiesSection = () => {
                       letterSpacing: '-0.04em'
                     }}
                   >
-                    John Doe
+                    Deepak
                   </p>
                   <p
                     className="text-black text-base sm:text-lg"
@@ -140,14 +125,7 @@ export const OurSpecialitiesSection = () => {
           paddingRight: 'clamp(1rem, 4.68vw, 4rem)'
         }}>
           <div className="relative w-full h-full overflow-hidden rounded-lg">
-            <Image
-              src="/aura-elevators/WhatsApp_Image_2026-02-24_at_10.43.26_AM_1_.jpeg"
-              alt="AHL Elevators Speciality"
-              fill
-              className="object-cover"
-              sizes="(max-width: 1024px) 100vw, 50vw"
-              priority
-            />
+
             {/* Testimonial Text Overlay */}
             <div className="absolute inset-0 z-20 flex items-center justify-end">
               <div className="text-right" style={{ maxWidth: 'clamp(300px, 35vw, 558px)' }}>
@@ -171,7 +149,7 @@ export const OurSpecialitiesSection = () => {
                       letterSpacing: '-0.04em'
                     }}
                   >
-                    John Doe
+                    Deepak
                   </p>
                   <p
                     className="text-black text-[20px]"
@@ -188,7 +166,7 @@ export const OurSpecialitiesSection = () => {
             </div>
           </div>
         </div>
-      </div>
-    </section>
+      </div >
+    </section >
   );
 };

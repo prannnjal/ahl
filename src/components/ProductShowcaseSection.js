@@ -100,90 +100,9 @@ export const ProductShowcaseSection = () => {
                 </div>
               </div>
 
-              {/* Right Side - Bottom Right Content - Desktop */}
-              <div className="hidden lg:block absolute right-0 z-20" style={{ bottom: 0, marginBottom: 0, paddingBottom: 0 }}>
-                <a
-                  href="https://calendly.com/artivo/free-design-consultation"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Book a free design consultation"
-                  className="relative flex items-end"
-                  style={{ marginBottom: 0, paddingBottom: 0 }}
-                >
-                  <div
-                    className="relative overflow-hidden"
-                    style={{
-                      width: 'clamp(400px, 31.25vw, 600px)',
-                      height: 'clamp(40px, 3.2vw, 64px)',
-                      background: '#FFED00',
-                      clipPath: 'polygon(0 0, 100% 0, 100% 100%, 20% 100%)',
-                      transform: 'scaleY(-1)'
-                    }}
-                  >
-                    <div
-                      className="absolute inset-0 flex items-center justify-center gap-3 px-4 md:px-6"
-                      style={{ transform: 'scaleY(-1)' }}
-                    >
-                      <span
-                        className="text-black font-bold text-center"
-                        style={{ fontSize: 'clamp(0.875rem, 0.938vw, 1.125rem)', letterSpacing: '-0.02em' }}
-                      >
-                        CLICK HERE TO BOOK A FREE CONSULTATION
 
-                      </span>
-                      <Image
-                        src="/why-artivo/Group 18.svg"
-                        alt="Arrow"
-                        width={20}
-                        height={20}
-                        className="object-contain"
-                        style={{ width: 'clamp(16px, 1.25vw, 20px)', height: 'clamp(16px, 1.25vw, 20px)' }}
-                      />
-                    </div>
-                  </div>
-                </a>
-              </div>
 
-              {/* Mobile - Right Side Content */}
-              <div className="lg:hidden absolute bottom-0 left-0 right-0 z-20" style={{ marginBottom: 0, paddingBottom: 0 }}>
-                <a
-                  href="https://calendly.com/artivo/free-design-consultation"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Book a free design consultation"
-                  className="relative overflow-hidden block"
-                  style={{
-                    width: '100%',
-                    maxWidth: '100%',
-                    height: 'clamp(34px, 7.5vw, 50px)',
-                    background: '#FFED00',
-                    clipPath: 'polygon(0 0, 100% 0, 100% 100%, 20% 100%)',
-                    transform: 'scaleY(-1)'
-                  }}
-                >
-                  <div
-                    className="absolute inset-0 flex flex-col items-center justify-center"
-                    style={{ transform: 'scaleY(-1) translateX(6px)' }}
-                  >
-                    <div className="flex items-center justify-center gap-2 px-4">
-                      <span
-                        className="text-black font-bold text-center"
-                        style={{ fontSize: 'clamp(0.7rem, 2.6vw, 1rem)', letterSpacing: '-0.02em' }}
-                      >
-                        CLICK HERE TO BOOK A FREE CONSULTATION
-                      </span>
-                      <Image
-                        src="/why-artivo/Group 18.svg"
-                        alt="Arrow"
-                        width={18}
-                        height={18}
-                        className="object-contain"
-                        style={{ width: 'clamp(14px, 3vw, 18px)', height: 'clamp(14px, 3vw, 18px)' }}
-                      />
-                    </div>
-                  </div>
-                </a>
-              </div>
+
             </div>
 
             {/* Read More Button - Below 3rd Card Only */}

@@ -39,22 +39,18 @@ export const Navbar = ({ variant = 'default' }) => {
           <a href="/about" className="text-white text-lg font-medium hover:text-gray-300 transition-colors">
             About
           </a>
-          <a href="/capabilities" className="text-white text-lg font-medium hover:text-gray-300 transition-colors">
-            Capabilities
-          </a>
+
           <a href="/contact-us" className="text-white text-lg font-medium hover:text-gray-300 transition-colors">
             Contact Us
           </a>
 
           {/* Connect Button */}
           <a
-            href="https://calendly.com/artivo/free-design-consultation"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="/contact-us"
             className="text-black px-8 py-3 font-semibold text-sm rounded-full transition-colors"
             style={{ backgroundColor: 'rgba(255, 242, 8, 1)' }}
           >
-            Book a Free Audit
+            Contact
           </a>
         </div>
 
@@ -99,13 +95,6 @@ export const Navbar = ({ variant = 'default' }) => {
             Home
           </a>
           <a
-            href="/capabilities"
-            className="text-white text-[clamp(1.1rem,4vw,1.35rem)] font-semibold hover:text-gray-300 transition-colors"
-            onClick={handleCloseMenu}
-          >
-            Capabilities
-          </a>
-          <a
             href="/about"
             className="text-white text-[clamp(1.1rem,4vw,1.35rem)] font-semibold hover:text-gray-300 transition-colors"
             onClick={handleCloseMenu}
@@ -120,14 +109,12 @@ export const Navbar = ({ variant = 'default' }) => {
             Contact Us
           </a>
           <a
-            href="https://calendly.com/artivo/free-design-consultation"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="/contact-us"
             className="w-full text-center text-black py-3 font-semibold text-base rounded-full transition-colors"
             style={{ backgroundColor: 'rgba(255, 242, 8, 1)' }}
             onClick={handleCloseMenu}
           >
-            Book a Free Audit
+            Contact
           </a>
         </div>
       </div>

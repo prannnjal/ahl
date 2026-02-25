@@ -171,7 +171,7 @@ const sections = [
       "A copy of your stored data",
       "Opt-out from marketing communications",
     ],
-    postNote: "Requests may be sent to connect@artivo.com.au.",
+    postNote: "Requests may be sent to info@ahlelevators.com.",
   },
   {
     title: "8. Third-Party Links",
@@ -213,8 +213,8 @@ const sections = [
     title: "14. Contact Us",
     paragraphs: [
       "If you have questions about our Privacy Policy, you may contact us:",
-      "Email: connect@artivo.com.au",
-      "Website: www.artivo.com.au",
+      "Email: info@ahlelevators.com",
+      "Website: www.ahlelevators.com",
     ],
   },
 ];

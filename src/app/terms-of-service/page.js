@@ -112,8 +112,8 @@ const sections = [
     heading: "12. Contact Us",
     description: "If you have questions about our Terms & Conditions, you may contact us:",
     bullets: [
-      "Email: connect@artivo.com.au",
-      "Website: www.artivo.com.au",
+      "Email: info@ahlelevators.com",
+      "Website: www.ahlelevators.com",
     ],
   },
 ];

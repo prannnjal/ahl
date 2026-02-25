@@ -46,44 +46,13 @@ export const TestimonialFeaturesSection = () => {
 
         {/* White wave pattern */}
         <Image
-          src="/1 11.png"
-          alt="Background Pattern"
-          fill
-          className="object-cover opacity-30"
-          priority
-        />
-      </div>
-
-      {/* Intersect image in top right corner */}
-      <div className="absolute top-0 right-0 z-20">
-        <Image
           src="/product/Intersect.png"
           alt="Intersect Pattern"
           width={550}
           height={350}
           className="object-contain"
+          priority
         />
-        {/* Text overlay */}
-        <div className="absolute inset-0 flex items-center" style={{ paddingLeft: 'clamp(3rem, 6vw, 6rem)', paddingRight: 'clamp(1rem, 4.68vw, 4rem)' }}>
-          <a
-            href="https://calendly.com/artivo/free-design-consultation"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="Book a free design consultation"
-            className="flex items-center gap-6"
-          >
-            <span className="text-black font-bold whitespace-nowrap" style={{ fontSize: 'clamp(0.875rem, 1vw, 1rem)' }}>
-              CLICK HERE TO BOOK A FREE CONSULTATION
-            </span>
-            <Image
-              src="/why-artivo/Group 18.svg"
-              alt="Group 18 Pattern"
-              width={20}
-              height={20}
-              className="object-contain"
-            />
-          </a>
-        </div>
       </div>
 
       <div className="relative z-10" style={{ paddingLeft: 'clamp(1rem, 4.68vw, 4rem)', paddingBottom: 'clamp(1rem, 2vw, 2rem)' }}>
@@ -171,6 +140,6 @@ export const TestimonialFeaturesSection = () => {
           ))}
         </div>
       </div>
-    </section>
+    </section >
   );
 };

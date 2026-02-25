@@ -560,28 +560,8 @@ function AboutView({ variant = 'desktop' }) {
               />
             )}
 
-            {/* CTA overlay centered on the image */}
-            <div className="absolute inset-0 flex items-center justify-center pointer-events-auto z-20">
-              <div
-                className={`flex items-center justify-center gap-3 text-black font-semibold text-sm sm:text-base whitespace-nowrap px-3 py-1 rounded-full ${variant === 'mobile' ? 'translate-y-0 w-full' : '-translate-y-2'
-                  }`}
-              >
-                <span className="truncate">
-                  CLICK HERE AND GET YOUR QUOTE
-                </span>
-                <Image
-                  src="/why-artivo/Group 18.svg"
-                  alt="CTA Arrow"
-                  width={24}
-                  height={24}
-                  className="object-contain"
-                />
-              </div>
-            </div>
           </div>
         </div>
-
-
       </section>
 
       {/* Innovative Affiliations Section */}
