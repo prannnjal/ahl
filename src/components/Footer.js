@@ -42,12 +42,12 @@ export const Footer = () => {
                   Laxman Vihar, Gurugram, Haryana-122001
                 </p>
                 <p>
-                  <strong className="text-[#ffed00]">Service office:</strong> Basai Industrial Area<br />
+                  <strong className="text-[#ffed00]">Corporate office:</strong> Basai Industrial Area<br />
                   Opp Basai Dhankot Railway Station<br />
                   Gurugram Haryana- 122001
                 </p>
                 <p>
-                  <strong className="text-[#ffed00]">Service office:</strong> Delhi, Gurugram, Rewari, Neemran, Narnaul
+                  <strong className="text-[#ffed00]">Corporate office:</strong> Delhi, Gurugram, Rewari, Neemran, Narnaul
                 </p>
               </div>
             </div>
