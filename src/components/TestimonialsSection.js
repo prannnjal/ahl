@@ -8,31 +8,31 @@ export const TestimonialsSection = () => {
     () => [
       {
         quote:
-          "Artivo designed and launched our trailer latching system with utmost precision and creativity. Their team understood our vision from day one and delivered beyond expectations. Professional, reliable, and deeply passionate about innovation — truly impressive!",
+          "Ahl designed and launched our trailer latching system with utmost precision and creativity. Their team understood our vision from day one and delivered beyond expectations. Professional, reliable, and deeply passionate about innovation — truly impressive!",
         author: "Aditya",
         role: "Business Development Manager, Powertorque Electronics",
       },
       {
         quote:
-          "Working with Artivo was seamless from start to finish. They transformed our ideas into market-ready solutions that exceeded expectations. Their attention to detail, design thinking, and commitment make them our go-to partner.",
+          "Working with Ahl was seamless from start to finish. They transformed our ideas into market-ready solutions that exceeded expectations. Their attention to detail, design thinking, and commitment make them our go-to partner.",
         author: "Rohit",
         role: "Product Specialist, Derwent Tools",
       },
       {
         quote:
-          "Honestly, the Artivo team blew us away. They turned our napkin sketch into a fully working prototype in no time. Super easy to work with and always a step ahead.",
+          "Honestly, the Ahl team blew us away. They turned our napkin sketch into a fully working prototype in no time. Super easy to work with and always a step ahead.",
         author: "Eric",
         role: "Head of Sales (APAC), Staedtler Tools",
       },
       {
         quote:
-          "Honest approach, honest results. Artivo has surely given us the product our business needed. Their 2x product design strategy has grown our sales since last quarter. Great work!",
+          "Honest approach, honest results. Ahl has surely given us the product our business needed. Their 2x product design strategy has grown our sales since last quarter. Great work!",
         author: "Peter",
         role: "Head of Hydromechanics, Grizzley Pumps",
       },
       {
         quote:
-          "Artivo just gets it. We didn’t have to over-explain — they understood our vision instantly. The final service launched looked stunning and worked flawlessly. Can’t wait to collaborate again!",
+          "Ahl just gets it. We didn’t have to over-explain — they understood our vision instantly. The final service launched looked stunning and worked flawlessly. Can’t wait to collaborate again!",
         author: "Saviaul",
         role: "Chief Operations Officer, Ezmo Industries",
       },
