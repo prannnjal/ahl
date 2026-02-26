@@ -65,6 +65,13 @@ export const ServicesSection = () => {
       description: "Heavy-duty solutions engineered to safely transport goods in industrial settings.",
       image: "/New folder (2)/Frame 41 (1).png",
       showArrow: true
+    },
+    {
+      id: 10,
+      title: "HYDRAULIC ELEVATORS",
+      description: "Smooth and powerful vertical transport solutions ideal for low to medium-rise buildings.",
+      image: "/aura-elevators/WhatsApp_Image_2026-02-24_at_10.43.27_AM.jpeg",
+      showArrow: true
     }
   ];
 
