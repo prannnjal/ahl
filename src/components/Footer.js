@@ -53,7 +53,7 @@ export const Footer = () => {
             </div>
             {/* Copyright */}
             <div className="space-y-2 text-left pt-2">
-              <p className="text-white text-sm opacity-80">©2025 AHL Elevators</p>
+              <p className="text-white text-sm opacity-80">©2026 AHL Elevators</p>
               <p className="text-white text-sm opacity-80">All Rights Reserved</p>
             </div>
           </div>
@@ -97,6 +97,9 @@ export const Footer = () => {
         <div className="mt-12 pt-8 text-center border-t border-white/20">
           <p className="text-white text-sm font-semibold tracking-wide">
             Taking You Upward And Beyond!
+          </p>
+          <p className="text-white/80 text-sm mt-2">
+            Design and developed by <a href="https://xylotek.in/" target="_blank" rel="noopener noreferrer" className="text-[#ffed00] hover:underline transition-all">xylotek</a>
           </p>
         </div>
       </div>
